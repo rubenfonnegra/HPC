@@ -16,6 +16,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 3**  | MNIST | [Doc](https://docs.google.com/document/d/1G1fUvNOfSGosYZMXH6ITnPmyhxEb9G5JsVTXgnN8bA0/edit?usp=sharing),  [Practicum](https://github.com/rubenfonnegra/HPC/tree/master/Sem_3/mnist.py)
 | **Sem 4**  | Docker | [Slides](https://docs.google.com/presentation/d/1JYK512fYui9XeuArwZFEf2qWJSTp3FwCmlmMothni-0/edit?usp=sharing)
 | **Sem 5**  | Docker files | [Folder](https://github.com/rubenfonnegra/HPC/tree/master/Sem_5/), 
+| **Sem 6**  | Containers with data | [Folder](https://github.com/rubenfonnegra/HPC/tree/master/Sem_6/), 
 <!-- | **Sem 2**  | Paradigmas de aprendizaje | [Slides](https://docs.google.com/presentation/d/1B4wBGexKpvu-p86_NcTSuF2H3iwDRd9sfpbdgkO8Ge8/edit?usp=sharing), [Practicum 1](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_2/Practicum_1.ipynb)  -->
 
 
