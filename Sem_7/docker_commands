@@ -1,0 +1,25 @@
+
+
+## Build and run docker
+docker build -t <image-name> .
+docker run -it --rm <image-name> <command-to-run>
+docker run -it --rm <image-name> /bin/bash
+
+## Work on the images
+docker image ls
+
+## Show running containers
+docker ps
+
+## Pull image from dockerhub
+docker pull rubenfonnegra/sp-docker
+
+## Copy file to running container
+docker cp <file> <image-id>:<path-to-paste-name>
+
+### Publishing a docker image
+docker build -t <image-name> . 
+docker tag <image-name> <username>/<image-name>:latest
+docker push <username>/<image-name>:latest
+docker pull <username>/<image-name>:latest
+docker cp <filename>.zip <container-ID>:/path/in/container/<filename>.zip
